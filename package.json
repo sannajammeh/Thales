@@ -1,0 +1,26 @@
+{
+  "name": "thales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "cd docs && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sannajammeh/Thales.git"
+  },
+  "keywords": [],
+  "author": "Sanna Jammeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sannajammeh/Thales/issues"
+  },
+  "homepage": "https://github.com/sannajammeh/Thales#readme",
+  "devDependencies": {
+    "@types/styled-system": "^5.1.10"
+  }
+}
